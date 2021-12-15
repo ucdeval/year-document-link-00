@@ -14,3 +14,5 @@ This is a template repository to be used to set up custom HTML link redirects. U
 6. Repeat steps 1 through 6 for each individual link needed.
 
 If and when a link changes after a document has been published, individual links can be redirected by returning to the appropriate GitHub repository and updating the url to a new web address per step 5 above.
+
+For additional instructions on signing in to GitHub and creating bitlinks, go to https://docs.google.com/document/d/1EfTUL7q_0UtrcMvyP3DZtyKZcVgB4SbcrQ2Dh0qbOBs/edit?usp=sharing
