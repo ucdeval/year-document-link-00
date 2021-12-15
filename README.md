@@ -1,7 +1,8 @@
 # year-document-link-00
 Template repository for HTML link redirect
 
-Purpose 
+Purpose
+<br>
 This is a template repository to be used to set up custom HTML link redirects.
 
 Instructions
