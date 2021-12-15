@@ -10,4 +10,4 @@ This is a template repository to be used to set up custom HTML link redirects.
 2. Rename the repository using the convention year-document-link-00. For example, "2021-afsufreport-link-01" where "01" is a sequential number order starting at 01 and continuing up through as many links that are created for the document.
 3. Then, in the new repository's index.html file, update the url in the "meta" tag under the "html" section to direct to the desired web address.
 
-If and when a link changes after a document has been published, individual links can be redirected by returning the appropriate repository and updating the url to a new web address per step 3 above.
+If and when a link changes after a document has been published, individual links can be redirected by returning to the appropriate GitHub repository and updating the url to a new web address per step 3 above.
