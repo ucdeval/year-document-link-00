@@ -11,7 +11,9 @@ This is a template repository to be used to set up custom HTML link redirects. U
 3. In the new repository you just created, make a new file and name it "index.html".
 4. Paste in the html code you'd previously copied to your clipboard into the index.html file.
 5. Edit the url which appears in the "meta" tag under the "head" section to be whichever web address you'd like to direct the link. Be sure to commit (save) the changes.
-6. Repeat steps 1 through 6 for each individual link needed.
+6. In your new repository, go to the Settings tab for the repository. Go to the Pages section.
+7. Under Source click the dropdown menu next to None and switch the selection to main. Click Save.
+7. Repeat steps 1 through 6 for each individual link needed.
 
 If and when a link changes after a document has been published, individual links can be redirected by returning to the appropriate GitHub repository and updating the url to a new web address per step 5 above.
 
